@@ -1,0 +1,74 @@
+body {
+    background: #efefef;
+}
+
+.container {
+    width: 100%;
+    background: white;
+    text-align: center;
+    position: relative;
+}
+
+.top-page {
+    width: 960px;
+    background: #efefef;
+    display: inline-block;
+}
+
+header {
+    background: #4aaaa5;
+    color: white;
+    position: relative;
+    left: 0;
+    float: left;
+    padding: 0px 10px 0px 13px;
+}
+
+h1 {
+    font-size: 32px;
+    font-family: serif;
+}
+
+nav {
+    background: white;
+    text-align: right;
+    width: 75%;
+}
+
+li {
+    display: inline;
+    border-right: 1px solid black;
+    padding: 0 10px 0 10px;
+}
+
+li:last-child {
+    border: none;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: dimgray;
+}
+
+a:active {
+    text-decoration: underline;
+    color: #4aaaa5;
+}
+
+.main {
+    width: 960px;
+    background: white;
+    margin: 25px auto 0 auto;
+}
+
+.about-me {
+    color: #4aaaa5;
+    margin: 20px;
+    padding: 10px 10px 10px 10px;
+    width: 920px;
+    border-bottom: 1px solid gray;
+}
