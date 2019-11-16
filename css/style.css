@@ -225,18 +225,15 @@ body {
         text-align: center;
       }
 
-       .navbar-nav-right li {
+      .navbar-nav-right li {
          float: none;
          display: inline-block;
-       }
-      
-
+      }
   }
 
   @media only screen and (min-width: 600px) {
        #logo {
-           width: 100%;
-          
+           width: 100%;   
       }
 
       .navbar-nav-right {
@@ -244,27 +241,25 @@ body {
         text-align: center;
       }
 
-       .navbar-nav-right li {
+      .navbar-nav-right li {
          float: none;
          display: inline-block;
-       }
-     
-        
+      }   
   }
 
   @media only screen and (min-width: 768px) {
        #logo {
            width: 100%
-  }
+      }
 
       .navbar-nav-right {
         float: none;
         text-align: center;
       }
 
-       .navbar-nav-right li {
+      .navbar-nav-right li {
          float: none;
          display: inline-block;
-       }
+      }
 
   }
