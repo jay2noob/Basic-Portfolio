@@ -175,6 +175,10 @@ body {
     margin-top: 10px;
     margin-right: 25px;
   }
+
+  h3 a {
+    color: #efefef;
+  }
   
   /* contact page */
   
