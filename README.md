@@ -7,3 +7,5 @@ Made a responsive navbar.
 Made responsive images.
 
 Cleaned up code.
+
+
